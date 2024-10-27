@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository:
    ```
-   git clone https://github.com/gagan402/eventspotlite.git
+   https://github.com/gagan402/Gagandeep_Kaur_EventSpotLite.git
    ```
 
 2. Install the dependencies:
